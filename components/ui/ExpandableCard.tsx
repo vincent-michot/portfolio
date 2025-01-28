@@ -232,7 +232,7 @@ const cards = [
   {
     description: "Orange Business",
     title: "Data Engineer (Ops)",
-    src: "/ob.png",
+    src: "./ob.png",
     experienceStartDate: "2024-09-01",
     experienceEndDate: currentDate,
     stack: [
@@ -285,7 +285,7 @@ const cards = [
   {
     description: "Golden Palace",
     title: "Azure Data Engineer",
-    src: "/gp.png",
+    src: "./gp.png",
     experienceStartDate: "2023-04",
     experienceEndDate: "2024-09",
     stack: [
@@ -338,7 +338,7 @@ const cards = [
   {
     description: "Isalys",
     title: "Data Engineer",
-    src: "/isalys.png",
+    src: "./isalys.png",
     experienceStartDate: "2022-02",
     experienceEndDate: "2023-04",
     stack: [
@@ -387,7 +387,7 @@ const cards = [
   {
     description: "Safran Aircraft Engines",
     title: "Data Scientist (internship)",
-    src: "/safran.png",
+    src: "./safran.png",
     experienceStartDate: "2021-04",
     experienceEndDate: "2021-10",
     stack: [
