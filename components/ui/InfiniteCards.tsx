@@ -116,7 +116,11 @@ export const InfiniteMovingCards = ({
               <div className="relative z-20 mt-6 flex flex-row items-center">
                 {/* add this div for the profile img */}
                 <div className="me-3 h-12 w-12 rounded-full aspect-square object-cover">
-                  <img src="./profile.png" alt="profile" />
+                  <img
+                    src="./profile.png"
+                    alt="profile"
+                    className="rounded-full"
+                  />
                 </div>
                 <span className="flex flex-col gap-1">
                   {/* change text color, font-normal to font-bold, text-xl */}
